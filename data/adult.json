@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Wayne Howlett",
+        "who":"Father",
+        "birthday":"June 29, 1989",
+        "birthplace":"Santa Rosa, California",
+        "citizenship":"American",
+        "id": 1
+    },
+    {
+        "name":"Larra Dantas",
+        "who":"Mother",
+        "birthday":"Aug 02, 1996",
+        "birthplace":"Vitoria, ES Brazil",
+        "citizenship":"Brazillian",
+        "id": 2
+    },
+    {
+        "name":"Brittany Howlett",
+        "who":"Wayne's Sister",
+        "birthday":"Oct 09, 1993",
+        "birthplace":"Fort Stweart, GA",
+        "citizenship":"American",
+        "id": 3
+    },
+    {
+        "name":"Filipe Dantas",
+        "who":"Lara's Brother",
+        "birthday":"Unknown but sometime in May or March",
+        "birthplace":"Vitoria, ES Brazil",
+        "citizenship":"Brazillian",
+        "id": 4
+    }
+]
